@@ -1,8 +1,4 @@
-## Olist ürün kategorileri kötü yorumlar
+## Olist Product Categories Negative Reviews
 
-- Bu görevde, Olist'in müşterilerinden gelen kötü yorumları analiz edeceğiz.
-- NLP'nin gücünü kullanarak, kötü satıcılar ve kötü ürünler hakkında söylediklerini yakalayalım.
-
-```bash
-jupyter notebook nlp_olist_bad_reviews.ipynb
-```
+- In this task, we will analyze negative reviews from Olist's customers.
+- Using the power of NLP, let's capture what they are saying about bad sellers and bad products.
